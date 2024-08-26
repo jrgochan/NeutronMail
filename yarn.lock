@@ -29426,19 +29426,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"openpgp@npm:@protontech/openpgp@~5.11.2-0":
-  version: 5.11.2-0
-  resolution: "@protontech/openpgp@npm:5.11.2-0"
+"openpgp@npm:5.0.0":
+  version: 5.0.0
+  resolution: "openpgp@npm:5.0.0"
   dependencies:
     asn1.js: "npm:^5.0.0"
-  checksum: 10c0/0b17c5fe4702a901b2ac026adb500c7a38bc95ec15880fa91f059ee02e04c25474296d3326f203cd24fb977393fb73bde159f6186154c0a5942a5269251840e9
-  languageName: node
-  linkType: hard
-
-"openpgp@npm:@protontech/openpgp@~6.0.0-beta.2":
-  version: 6.0.0-beta.2
-  resolution: "@protontech/openpgp@npm:6.0.0-beta.2"
-  checksum: 10c0/7b1562f247165df36ab81a95ff9994705b97c557e26240d8710be7bf1f98b77e60805838e8c27743ae456e37186183524ee47ece8d5a526d354563bf95cbd328
+  checksum: 10c0/4ace31d2ba2a613f4cd941bceec95c9f6f49ffae8d2a1a16bf47a24f39e31ba6369a74783fa353be852a9a57ddc54921c261c45a72d32dd79c3fbc73a741d45a
   languageName: node
   linkType: hard
 
